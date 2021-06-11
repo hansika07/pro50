@@ -1,0 +1,36 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:tomato;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:black;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    font-family: fantasy;
+    width: 310px;
+    background-color: wheat;
+    height: 700;
+    display: inline-blocks;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: black;
+}
+.body{
+    background-color: whitesmoke;
+}
+.bodying{
+    background-color:tomato;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: 10px;
+    color: black;
+    
+
+}
